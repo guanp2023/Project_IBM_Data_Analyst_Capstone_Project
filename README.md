@@ -52,5 +52,3 @@ Building dashboard 
 
 Presentation of Findings
 - Final Presentation in PowerPoint.
-
-- Final Presentation in PowerPoint.
