@@ -47,8 +47,8 @@ Data Visualization  
 - Using SQL knowledge.
 - Using Python libraries (matplotlib.pyplot, seaborn, pandas) to plot graphs and visualize distribution (histogram, boxplot), relationship (scatter plot, bubble plot), composition (pie chart, stacked chart), and comparison (line chart, bar chart) of data in the dataset.
 
-Building dashboard  
--  Using IBM Cognos Analytics to make various charts and assemble a dashboard.
+Building dashboard 
+- Using IBM Cognos Analytics to make various charts and assemble a dashboard.
 
 Presentation of Findings
 - Final Presentation in PowerPoint.
