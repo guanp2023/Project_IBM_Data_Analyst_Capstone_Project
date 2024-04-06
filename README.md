@@ -18,9 +18,7 @@ Once you have collected enough data, you will begin analyzing the data and ident
 - What are the top database skills in demand?
 - What are the popular IDEs?
 
-You will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
- 
-Once this is completed, you will make that data ready for analysis using data-wrangling techniques. 
+You will begin by scraping internet websites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. Once this is completed, you will make that data ready for analysis using data-wrangling techniques. 
 
 When the data is ready you will then want to apply statistical techniques to analyze the data. Then bring all of your information together by using IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
 
